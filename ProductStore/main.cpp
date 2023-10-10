@@ -18,8 +18,9 @@ int main() {
 	cout<<"Enter Your choice: ";
 	cin>>choice;
 	
-}while(choice != 0);
 	
+}while(choice != 0);
+	cout<<"Thank You!! visit again";
 	
 	return 0;
 }
