@@ -11,5 +11,9 @@ int main() {
 //	pm.Insert(p);
 	//pm.Delete(1);
 	
+	
+	cout<<"1. InsertData\n 2. DeleteData\n 3. UpdateData\n 4. RetrieveData"
+	
+	
 	return 0;
 }
